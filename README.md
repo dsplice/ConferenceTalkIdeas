@@ -1,4 +1,4 @@
-# ConferenceTalkIdeas
+# Conference Talk Ideas
 A list of ideas for infosec conference talks
 
 This is a first crack at a list of crowdsourced ideas for conference talks.  Feel free to fork, pull, push, boop, sniff or whatever you want from this list.  The only thing that is asked, is that if you want to flesh out and do a talk that someone else suggested (especially if they come up with a flashy title or such), ask before you use the idea.  
