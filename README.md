@@ -23,14 +23,14 @@ _Topics related to security monitoring, SIEM, detection etc_
 
 _Topics related to Computer/Disk Forensics_
 
-- "Quick and Dirty Triage Forensics with KAPE", A talk on collecting and quick analysis of a single system using triage data and Kape. (Talk idea submitted by dsplice to BSides Calgary 2022)
+- "Quick and Dirty Triage Forensics with KAPE", A talk on collecting and quick analysis of a single system using triage data and Kape. (dsplice)
 - "I Bought 10 Hard Drives off Ebay...", A talk on examining old hard drives listed as for sale on Ebay (dsplice)
 
 ## Incident Response
 
 _Topics related to Incident Response_
 
-- "Chainsaw, Slice and Dice Those Event Logs", A talk on using Chainsaw and the Sigma intrusion detection signature database, to quickly locate and report on possible intrustion activity. (dsplice)
+- "Chainsaw, Slice and Dice Those Event Logs", A talk on using Chainsaw and the Sigma intrusion detection signature database, to quickly locate and report on possible intrustion activity. (Talk being submitted by Cyb3rEng)
 - "So You Just Got Ransomed.  A Complete Idiot's Guide to Dealing with Ransomware", A talk on what to do, if you find out you have been hit with ransomware. (dsplice)
 
 ## Management
